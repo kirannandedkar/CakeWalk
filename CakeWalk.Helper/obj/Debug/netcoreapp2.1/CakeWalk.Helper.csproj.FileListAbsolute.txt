@@ -1,0 +1,8 @@
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Helper\bin\Debug\netcoreapp2.1\CakeWalk.Helper.deps.json
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Helper\bin\Debug\netcoreapp2.1\CakeWalk.Helper.dll
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Helper\bin\Debug\netcoreapp2.1\CakeWalk.Helper.pdb
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Helper\obj\Debug\netcoreapp2.1\CakeWalk.Helper.csproj.CoreCompileInputs.cache
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Helper\obj\Debug\netcoreapp2.1\CakeWalk.Helper.AssemblyInfoInputs.cache
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Helper\obj\Debug\netcoreapp2.1\CakeWalk.Helper.AssemblyInfo.cs
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Helper\obj\Debug\netcoreapp2.1\CakeWalk.Helper.dll
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Helper\obj\Debug\netcoreapp2.1\CakeWalk.Helper.pdb

@@ -1,0 +1,16 @@
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.Model.deps.json
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.Model.dll
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.Model.pdb
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.DAL.dll
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.Exceptions.dll
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.Helper.dll
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.DAL.pdb
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.Exceptions.pdb
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.Helper.pdb
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.csprojAssemblyReference.cache
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.csproj.CoreCompileInputs.cache
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.AssemblyInfoInputs.cache
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.AssemblyInfo.cs
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.csproj.CopyComplete
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.dll
+D:\CakeWalk\CakeWalk.WebApp\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.pdb
