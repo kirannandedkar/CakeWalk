@@ -1,0 +1,6 @@
+
+*.dll
+*.pdb
+*.cache
+*.dll
+.vs/CakeWalk.WebApp/v15/.suo
