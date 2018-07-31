@@ -23,7 +23,6 @@ D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.Hel
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.DAL.pdb
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.Exceptions.pdb
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\bin\Debug\netcoreapp2.1\CakeWalk.Helper.pdb
-D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.csprojAssemblyReference.cache
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.csproj.CoreCompileInputs.cache
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.AssemblyInfoInputs.cache
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.AssemblyInfo.cs

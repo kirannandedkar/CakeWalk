@@ -9,9 +9,9 @@ D:\CakeWalk\CakeWalk.WebApp\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.pd
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\bin\Debug\netcoreapp2.1\CakeWalk.DAL.deps.json
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\bin\Debug\netcoreapp2.1\CakeWalk.DAL.dll
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\bin\Debug\netcoreapp2.1\CakeWalk.DAL.pdb
-D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.csprojAssemblyReference.cache
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.csproj.CoreCompileInputs.cache
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.AssemblyInfoInputs.cache
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.AssemblyInfo.cs
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.dll
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.pdb
+D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.csprojResolveAssemblyReference.cache
