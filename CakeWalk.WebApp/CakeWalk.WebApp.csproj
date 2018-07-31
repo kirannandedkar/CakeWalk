@@ -31,6 +31,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="ClientApp\src\app\pages\authentication\" />
+    <Folder Include="ClientApp\src\assets\images\" />
     <Folder Include="ClientApp\src\app\pages\admin\login\" />
   </ItemGroup>
 
