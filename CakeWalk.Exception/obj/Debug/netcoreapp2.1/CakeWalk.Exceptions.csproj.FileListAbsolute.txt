@@ -25,4 +25,3 @@ D:\My Work\CakeWalk\CakeWalk\CakeWalk.Exception\obj\Debug\netcoreapp2.1\CakeWalk
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Exception\obj\Debug\netcoreapp2.1\CakeWalk.Exceptions.csproj.CopyComplete
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Exception\obj\Debug\netcoreapp2.1\CakeWalk.Exceptions.dll
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Exception\obj\Debug\netcoreapp2.1\CakeWalk.Exceptions.pdb
-D:\My Work\CakeWalk\CakeWalk\CakeWalk.Exception\obj\Debug\netcoreapp2.1\CakeWalk.Exceptions.csprojAssemblyReference.cache

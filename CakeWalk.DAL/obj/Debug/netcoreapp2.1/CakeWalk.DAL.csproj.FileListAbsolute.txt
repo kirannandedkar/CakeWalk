@@ -14,4 +14,3 @@ D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.A
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.AssemblyInfo.cs
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.dll
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.pdb
-D:\My Work\CakeWalk\CakeWalk\CakeWalk.DAL\obj\Debug\netcoreapp2.1\CakeWalk.DAL.csprojResolveAssemblyReference.cache

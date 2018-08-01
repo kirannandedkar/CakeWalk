@@ -29,4 +29,3 @@ D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Mod
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.csproj.CopyComplete
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.dll
 D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.pdb
-D:\My Work\CakeWalk\CakeWalk\CakeWalk.Model\obj\Debug\netcoreapp2.1\CakeWalk.Model.csprojAssemblyReference.cache
