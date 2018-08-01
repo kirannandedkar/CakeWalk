@@ -1,0 +1,13 @@
+
+*.dll
+*.pdb
+*.cache
+*.dll
+.vs/CakeWalk.WebApp/v15/.suo
+.vs/CakeWalk.WebApp/v15/Server/sqlite3/storage.ide-shm
+CakeWalk.DAL/obj/Debug/netcoreapp2.1/CakeWalk.DAL.csproj.FileListAbsolute.txt
+CakeWalk.DAL/obj/Debug/netcoreapp2.1/CakeWalk.DAL.csprojResolveAssemblyReference.cache
+CakeWalk.Exception/obj/Debug/netcoreapp2.1/CakeWalk.Exceptions.csproj.CoreCompileInputs.cache
+CakeWalk.Exception/obj/Debug/netcoreapp2.1/CakeWalk.Exceptions.csproj.FileListAbsolute.txt
+CakeWalk.Model/obj/Debug/netcoreapp2.1/CakeWalk.Model.csproj.CoreCompileInputs.cache
+CakeWalk.Model/obj/Debug/netcoreapp2.1/CakeWalk.Model.csproj.FileListAbsolute.txt
