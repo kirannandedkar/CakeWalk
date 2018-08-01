@@ -1,8 +1,9 @@
 import { NgModule } from '@angular/core';
-import { Routes, RouterModule } from '../../node_modules/@angular/router';
+import { Routes, RouterModule } from '@angular/router';
 
 // All pages Need to define
-import { LoginComponent } from './pages/login/login.component';
+import { LoginComponent } from './pages/admin/login/login.component';
+
 
 
 
@@ -15,7 +16,7 @@ this is Main app routing Module
 // Define all the rous over hear.
 const routes: Routes = [
   {  path: '', component: LoginComponent },
-  {  path: 'login',   component: LoginComponent },
+  {  path: 'admin',   component: LoginComponent },
 
 ];
 

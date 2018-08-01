@@ -1,6 +1,6 @@
 import { FormGroup, FormControl } from '@angular/forms';
 import { element } from 'protractor';
-import { Type } from '../../../node_modules/@angular/core';
+import { Type } from '@angular/core';
 
 /* User for check is JSON format is valid or not */
 export function IsJsonString(str) {
