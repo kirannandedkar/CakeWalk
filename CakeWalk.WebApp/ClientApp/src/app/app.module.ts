@@ -10,6 +10,8 @@ import { HomeComponent } from './home/home.component';
 import { CounterComponent } from './counter/counter.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { LoginComponent } from './pages/login/login.component';
+import { LayoutComponent } from './layout/layout.component';
+import { DashboardComponent } from './pages/dashboard/dashboard.component';
 
 @NgModule({
   declarations: [
@@ -18,17 +20,25 @@ import { LoginComponent } from './pages/login/login.component';
     HomeComponent,
     CounterComponent,
     FetchDataComponent,
-    LoginComponent
+    LoginComponent,
+    LayoutComponent,
+    DashboardComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
     HttpClientModule,
     FormsModule,
     RouterModule.forRoot([
-      { path: '', component: HomeComponent, pathMatch: 'full' },
-      { path: 'counter', component: CounterComponent },
-      { path: 'fetch-data', component: FetchDataComponent },
-      { path: 'login', component: LoginComponent },
+      { path: '', component: LoginComponent, pathMatch: 'full' },
+      {
+        path: '', component: LayoutComponent,
+        children: [
+          {
+            path: 'dashboard',
+            component:DashboardComponent
+          },
+        ]
+      },
     ])
   ],
   providers: [],
