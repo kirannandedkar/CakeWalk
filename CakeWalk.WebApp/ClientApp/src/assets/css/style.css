@@ -6463,18 +6463,21 @@ tbody tr th {
     font-weight: normal;
 }
 .table-striped tbody tr:nth-of-type(odd) {
-  background-color: rgba(0,0,0,.05);
+  background-color: rgba(0,0,0,.02);
 }
-.table > tbody > tr > td,
-.table > tbody > tr > th,
-.table > tfoot > tr > td,
-.table > tfoot > tr > th,
-.table > thead > tr > td,
-.table > thead > tr > th {
-  vertical-align: top;
-  padding: 8px;
-  font-size: 16px;
-}
+  .table-striped tbody tr:nth-of-type(odd):hover {
+    background-color: rgba(0,0,0,.075);
+  }
+  .table > tbody > tr > td,
+  .table > tbody > tr > th,
+  .table > tfoot > tr > td,
+  .table > tfoot > tr > th,
+  .table > thead > tr > td,
+  .table > thead > tr > th {
+    vertical-align: top;
+    padding: 8px;
+    font-size: 16px;
+  }
 
 .table > thead > tr > th {
     border-bottom: 1px solid #e7e7e7;
