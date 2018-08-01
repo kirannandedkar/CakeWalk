@@ -1,5 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300i,400,600,700,800');
+@font-face {
+  font-family: 'freesans';
+  src: url('../../../assets/fonts/freesans.ttf') format('truetype');
+}
 
+@font-face {
+  font-family: 'freesansbold';
+  src: url('../../../assets/fonts/freesansbold.ttf') format('truetype');
+}
 .preloader {
     width: 100%;
     height: 100%;
@@ -3032,7 +3039,7 @@ input[type=radio] {
 }
 input[type=radio],
 input[type=checkbox] {
-  border: 1px solid #0d7653;
+  border: 2px solid #e5e5e5;
   background: #fff;
   color: #555;
   clear: none;
@@ -3080,7 +3087,7 @@ input[type=checkbox] {
     input[type=checkbox]:checked:before {
       content: '\f00c';
       margin: 4px 0 0 0px;
-      color: #0d7653;
+      color: #00ad5f;
     }
 
 input[type=radio] {
@@ -3090,7 +3097,7 @@ input[type=radio] {
   input[type=radio]:checked:before {
     content: '\f111';
     margin: 4px 0 0 -1px;
-    color: #2eb1eb;
+    color: #00ad5f;
     font: 400 8px/1 'FontAwesome';
   }
 .modal-header .close {
@@ -3418,3 +3425,18 @@ textarea.form-control
 {
   min-height:100px;
 }
+.actionitem {
+  display: block;
+  height: 30px;
+  width: 30px;
+  position: relative;
+  border-radius: 50%;
+  background: #e5e5e5;
+  margin-right: 5px;
+  line-height:30px;
+  text-align:center
+}
+  .actionitem i {
+    font-size: 18px;
+    color: #808080;
+  }
